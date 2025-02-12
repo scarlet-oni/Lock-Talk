@@ -15,7 +15,7 @@ Program: Lock-Talk | Console messanger
 Current version: 1.9
 Languages: Python 3.12.7
 Tested on: Kali linux 2024.4 on Kernel Linux 6.11.2 | Windows
-Author: ghostface-cybersecurity
+Author: scarlet-oni
 Dependencies: OpenSSL 3.4.0
 ________________________________________________________________________________
                                  DOCUMENTATION
