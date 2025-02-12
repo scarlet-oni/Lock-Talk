@@ -95,7 +95,7 @@ ________________________________________________________________________________
 By downloading, modifying, redistributing, and/or executing Lock-Talk, the
 user agrees to the contained LEGAL.txt statement found in this repository.
 
-I, ghostface-cybersecurity, the creator, take no legal responsibility for unlawful actions
+I, scarlet-oni, the creator, take no legal responsibility for unlawful actions
 caused/stemming from this program. 
 
 Use responsibly and ethically!
